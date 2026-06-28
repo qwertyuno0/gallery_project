@@ -6,5 +6,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),    tailwindcss()],
-  base: '/12-gallery-pro/'
+  base: '/gallery_project/',
 })
